@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "696835468419",
+    "firebase_url": "https://lbl-app-b3750.firebaseio.com",
+    "project_id": "lbl-app-b3750",
+    "storage_bucket": "lbl-app-b3750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696835468419:android:87db275556301e4f073fb6",
+        "android_client_info": {
+          "package_name": "com.adaptivle.lbl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696835468419-44hkdn1hgj20g06eiq9maql0n57vrgvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApoUGk2c6hOk28H8N8YuLU7ZxhVNKnfJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696835468419-44hkdn1hgj20g06eiq9maql0n57vrgvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696835468419-1qdtt9ntsvod4upmpjmalaaf81ethhig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adaptivle.lbl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
